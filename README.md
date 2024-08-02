@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/IngeSenekal/Inge-Senekal-Virtual-CV/blob/main/src/assets/Icon.svg" title="" alt="" width="50" height="50"/>&nbsp;
  </div>
-# 💫 Hi, I'm Inge Senekal
+💫 Hi, I'm Inge Senekal
 <br><br> 🏫I'm a current IT student at North-West University, working towards my BSc in Information Technology. 
 <br><br>💡 I'm all about learning, growing, and tackling new challenges head-on!
 <br><br>🚀 I’m an innovation enthusiast, always motivated to improve and disciplined in my pursuits.
