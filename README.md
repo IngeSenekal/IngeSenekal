@@ -2,12 +2,13 @@
   <img src="https://github.com/IngeSenekal/Inge-Senekal-Virtual-CV/blob/main/src/assets/Icon.svg" title="" alt="" width="50" height="50"/>&nbsp;
  </div>
 # 💫 Hi, I'm Inge Senekal
- 🏫I'm a current IT student at North-West University, working towards my BSc in Information Technology. 
+<br><br> 🏫I'm a current IT student at North-West University, working towards my BSc in Information Technology. 
 <br><br>💡 I'm all about learning, growing, and tackling new challenges head-on!
 <br><br>🚀 I’m an innovation enthusiast, always motivated to improve and disciplined in my pursuits.
 <br><br>🖥️ I’m on a mission to keep expanding my knowledge and skills in the tech world.
 <br><br>Let's connect and grow together! 🌟
-<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ia-senekal) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ia-senekal) 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
